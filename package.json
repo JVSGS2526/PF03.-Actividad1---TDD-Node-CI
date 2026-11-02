@@ -1,0 +1,25 @@
+{
+  "name": "pf03.-actividad1---tdd-node-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JVSGS2526/PF03.-Actividad1---TDD-Node-CI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JVSGS2526/PF03.-Actividad1---TDD-Node-CI/issues"
+  },
+  "homepage": "https://github.com/JVSGS2526/PF03.-Actividad1---TDD-Node-CI#readme",
+  "devDependencies": {
+    "vitest": "^5.1.0"
+  }
+}
